@@ -19,13 +19,18 @@ Our experiments used authorized data from La Escondida Mine (BHP Groups). If you
 
 /data/
 
-** matrices.npz **: **matrices.npz**: Compressed file containing temporal matrices (X) and their corresponding targets (y). The matrix X is scaled and has a shape of (n, 30, 8), where (30, 8) represents the size of each window with 30 time steps and eight features per step.
+** matrices.npz **: Compressed file containing temporal matrices (X) and their corresponding targets (y). The matrix X is scaled and has a shape of (n, 30, 8), where (30, 8) represents the size of each window with 30 time steps and eight features per step.
 
-A brief description of what this project does and who it's for.
 
-## Installation
+## Citation
 
-Instructions on how to install and set up the project.
+```latex
+@misc{hermosilla2024sagoverload,
+  author = {Hermosilla, R., Valle, C.},
+  title = {SAG\'s Overload Forecasting Using A CNN Physical Informed Approach},
+  year = {2024},
+  url = {https://github.com/username/repository](https://github.com/rhermosilla-codes/SAG_Overload_Forecast_PINN_CNN/)},
+  note = {Version 1.0, commit hash: abcdef1234567890abcdef1234567890abcdef12}
+}
 
-```bash
-pip install foobar
+<b>Soon, you will find a way to cite our last paper here.</b>
