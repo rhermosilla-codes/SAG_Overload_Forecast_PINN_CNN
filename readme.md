@@ -46,4 +46,4 @@ Our experiments utilized authorized data from La Escondida Mine (BHP Group). If 
   note = {Version 1.0, commit hash: abcdef1234567890abcdef1234567890abcdef12}
 }
 ```
-*Soon, you will find a way to cite our last paper here.*
+*Soon, here you will find a way to cite our last paper.*
