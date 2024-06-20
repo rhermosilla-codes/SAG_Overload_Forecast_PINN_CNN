@@ -35,6 +35,10 @@ Our experiments utilized authorized data from La Escondida Mine (BHP Group). If 
 
   The **y** vector values represent the labeled condition of overload, i.e., target (0: non-overload, 1: overload).
 
+/models/
+
+- **last_cnn_pinn_sag_overload.h5**: The last model trained with our proposed method.
+
 ## Citation
 
 ```latex
