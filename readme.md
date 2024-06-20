@@ -4,7 +4,7 @@ This directory contains the implementation of CNN-PINN model to forecast or pred
 
 # Requeriments
 
-Our experiments utilized authorized data from La Escondida Mine (BHP Group). If you require the original data, you must obtain express authorization from the mine to request it. You can request the original data (with a verifiable authorization) by emailing rodrigo.hermosilla@sansano.usm.cl. Nevertheless, you can find the scaled data in our repository to reproduce our experiments.yway, you can find the scaled data in our repository for reproducibility of our experiments.
+Our experiments utilized authorized data from La Escondida Mine (BHP Group). If you need the original data, you must obtain express authorization from the mine. You can request the original data (with verifiable authorization) by emailing rodrigo.hermosilla@sansano.usm.cl. Nevertheless, you can find the scaled data in our repository to reproduce our experiments.
 
 
 # Files
