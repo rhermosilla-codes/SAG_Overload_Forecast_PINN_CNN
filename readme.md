@@ -45,7 +45,7 @@ Note: this file is about 90MB and was saved via git-lfs.
 
 ```latex
 @misc{hermosilla2024sagoverload,
-  author = {Hermosilla, R., Valle, C.},
+  author = {Hermosilla, R., Valle, C., Allende, H., Aguilar, C., Lucic, E.},
   title = {SAG's Overload Forecasting Using A CNN Physical Informed Approach},
   year = {2024},
   url = {https://github.com/username/repository](https://github.com/rhermosilla-codes/SAG_Overload_Forecast_PINN_CNN/)},
